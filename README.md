@@ -11,6 +11,24 @@ This repository contains a Python script (`ass1.py`) that performs basic arithme
 - **Multiplication**
 - **Division** (with handling for division by zero)
 
+## Task 2: Personalized Greeting
+
+This task prompts the user for their first and second name, then prints a personalized greeting.
+
+**Example Code:**
+```python
+first_name = input("Enter your first name: ")
+second_name = input("Enter your second name: ")
+print(f"Hello {first_name} {second_name}! Welcome to the Python program")
+```
+
+**Sample Output:**
+```
+Enter your first name: John
+Enter your second name: Deo
+Hello John Deo! Welcome to the Python program
+```
+
 ## Usage
 
 1. **Run the script**:
